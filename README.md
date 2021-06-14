@@ -5,6 +5,8 @@ rapidapp is a small and simple framework that helps you building WebApps in Go f
 
 First make sure that Go is installed on your computer. Then donwload these files and make a binary using "go build". copy it to a bin-folder so that you can use it as a command in the shell.
 
+rapidapp uses the followinf repo to manage the routing of requests: github.com/bouk/httprouter
+
 
 
 RAPIDAPP USAGE:
