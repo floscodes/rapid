@@ -77,7 +77,7 @@ func Make(appname string) error {
 	}
 
 	for _, x := range folderstocopy {
-		err = CopyFolder(x, "./__"+appname+"/"+x)
+		err = CopyDir(x, "./__"+appname+"/"+x)
 		if err != nil {
 			return err
 		}
