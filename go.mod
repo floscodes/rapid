@@ -1,4 +1,4 @@
-module rapidapp
+module rapid
 
 go 1.16
 
