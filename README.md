@@ -36,7 +36,7 @@ Golang-rapid will create a new folder with your app’s source files:
 
 * router.go   -   here you can set your http-paths and link them to a function that handles the request
 * handlers.go -   here you can define the functions that handle the requests
-* main.go     -   thi file contains the main-function where the server is being started and where you can set the port your app will listen to
+* main.go     -   this file contains the main-function where the server is being started and where you can set the port your app will listen to
 
 
 ### Building the app:
