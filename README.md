@@ -32,7 +32,7 @@ For creating a bew app use the following command:
 rapid new YOUR_APP_NAME
 ```
 
-Golang-rapid will create a new folder with your app’s source files:
+Golang-rapid will create a new project-folder with your app’s source files:
 
 * router.go   -   here you can set your http-paths and link them to a function that handles the request
 * handlers.go -   here you can define the functions that handle the requests
