@@ -58,7 +58,7 @@ If you want to cross-compile your app first use ```go build``` to set your prefe
 env GOOS=linux GOARCH=arm go build
 ```
 
-A executable will be putted in your project-folder.
+An executable will be putted in your project-folder.
 Then use 
 ```
 rapid make
