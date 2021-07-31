@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-//String s is the path-separator. The value depends on the OS. (On Windows it's vlaue would be "\")
+//String s is the path-separator. The value depends on the OS. (On Windows it's value would be "\")
 var s string
 
 func main() {
