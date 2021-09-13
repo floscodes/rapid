@@ -26,7 +26,7 @@ go build
 
 ### Creating a new app:
 
-For creating a bew app use the following command:
+For creating a new app use the following command:
 
 ```
 rapid new YOUR_APP_NAME
