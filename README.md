@@ -15,7 +15,7 @@ Golang-rapid is a small and simple framework that helps you building WebApps in 
 
 ### Build from source:
 
-1.) Download the Code as a ZIP-File. Unpack it, and open the folder in a shell. Then type
+1.) Download the Code as a ZIP-File. Unpack it, and open the folder in the command line. Then type
 
 ```
 go build
