@@ -3,7 +3,7 @@
 
 
 
-Golang-rapid is a small and simple framework that helps you building WebApps in Go fast and easy.
+Golang-rapid accelerates the process of building a small web service im Golang.
 (it is inspired by the Python-Framework Django)
 
 
